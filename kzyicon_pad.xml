@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Company_Info>
+    <Company_Name>Nuwan Umesh</Company_Name>
+    <Country>Sri Lanka</Country>
+    <Company_WebSite_URL>https://nuwan.carrd.co/</Company_WebSite_URL>
+    <Contact_Info_Email>nuwanumesh@gmail.com</Contact_Info_Email>
+    <Author_First_Name>Nuwan</Author_First_Name>
+  </Company_Info>
+
+  <Program_Info>
+    <Program_Name>KzyIcon</Program_Name>
+    <Program_Version>V 1.1.0.1</Program_Version>
+    <Program_Release_Month>06</Program_Release_Month>
+    <Program_Release_Day>15</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Categories>
+      <Primary_Category>Utilities</Primary_Category>
+      <Secondary_Category>Customization</Secondary_Category>
+    </Program_Categories>
+    <Program_OS_Support>Windows 8/10/11 (32-bit or 64-bit)</Program_OS_Support>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Description>KzyIcon is a lightweight Windows utility that lets you easily customize your folder icons using any PNG image. Whether you're organizing work files or giving your desktop a personal touch, KzyIcon makes it simple and intuitive.</Program_Description>
+    <Program_Short_Description>A lightweight Windows Icon Changer and Overlay.</Program_Short_Description>
+    <Program_System_Requirements>.NET Framework 4.7+, 1GB RAM, 10MB Disk, 1024x768 Display</Program_System_Requirements>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+  </Program_Info>
+
+  <Program_URLs>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/nuwanumesh/kzyicon</Application_Info_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/nuwanumesh/kzyicon/releases/download/KzyIcon/KzyIcon_WIN_Release.zip</Primary_Download_URL>
+    </Download_URLs>
+  </Program_URLs>
+
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+  </Permissions>
+</XML_DIZ_INFO>
